@@ -1,5 +1,5 @@
 var playlist = {
-  Phil Ochs: 'Thunderstruck'
+  "Phil Ochs": 'Thunderstruck'
 }
 
 function updatePlaylist (playlist, artistName,songTitle){
